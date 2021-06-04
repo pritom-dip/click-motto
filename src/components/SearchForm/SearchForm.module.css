@@ -1,0 +1,10 @@
+.search_button{
+    background: transparent;
+    border:none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    top: 25%;
+    right: 5px;
+    color: grey;
+}

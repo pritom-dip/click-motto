@@ -1,0 +1,6 @@
+.bannerBg{
+    background: url("../../images/sunflower.png");
+    background-size: cover;
+    background-position:center;
+    min-height: 600px;
+}

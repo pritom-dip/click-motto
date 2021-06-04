@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px){
+    .gallery_row{
+        display: block !important;
+    }
+    .hero-banner-wrapper{
+        min-height : 400px !important;
+    }
+    .hero-banner{
+        margin: 0px !important;
+        width: 100% !important;
+    }
+    .item img{
+        width: 400px !important;
+    }
+    .container{
+        width: 100% !important;
+    }
+}
