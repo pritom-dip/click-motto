@@ -1,6 +1,6 @@
 # Welcome to Click Motto 
 
-Live site link (Will be updated soon)
+Live site link (https://happy-jones-aec9ab.netlify.app/)
 
 ## Run this Project
 

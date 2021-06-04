@@ -27,7 +27,7 @@ const Header = () => {
                     </button>
 
                     <div className={`collapse navbar-collapse ${showMobileMenu ? 'show' : ''}`} id="navbarScroll">
-                        <ul className="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style={{ justifyContent: 'flex-end', alignItems: 'center', 'width': '88%' }}>
+                        <ul className="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style={{ justifyContent: 'flex-end', alignItems: 'center', 'width': '84%' }}>
                             <li className={`nav-item ${styles.nav_item}`}>
                                 <Link to="/" className="nav-link ">Explore</Link>
                             </li>
