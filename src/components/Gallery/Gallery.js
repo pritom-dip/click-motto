@@ -34,8 +34,6 @@ const Gallery = () => {
     const [loader, setLoader] = useState(true);
     const [video, setVideo] = useState(false);
 
-    console.log(gallaries);
-
     useEffect(() => {
         dispatch(getAllData());
         setTimeout(() => {
